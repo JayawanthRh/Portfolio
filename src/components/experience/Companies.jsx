@@ -2,7 +2,7 @@ import React from "react";
 import UnccImg from "../../assets/IBM.png";
 import NcrImg from "../../assets/zestmoney.png";
 import RandstadImg from "../../assets/Kyndryl.png"
-import Bestbuy from "../../assets/Best_buy.jpeg"
+import TMobile from "../../assets/T-Mobile.png"
 
 const Companies = () => {
   return (
@@ -16,7 +16,7 @@ const Companies = () => {
             <h3 className="experience__title">Software Engineer – Backend & Application Modernization</h3>
           </div>
           <div className="experience__image">
-            <img src={Bestbuy} alt="Experience Image" />
+            <img src={TMobile} alt="Experience Image" />
           </div>
         </div>
 
