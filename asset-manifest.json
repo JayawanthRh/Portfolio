@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.fe4887cf.css",
-    "main.js": "/Portfolio/static/js/main.26198f29.js",
+    "main.js": "/Portfolio/static/js/main.1a0eb99f.js",
     "static/js/453.ed3810f9.chunk.js": "/Portfolio/static/js/453.ed3810f9.chunk.js",
     "static/media/profile.png": "/Portfolio/static/media/profile.bd3ab36540eb940accea.png",
     "static/media/about.jpg": "/Portfolio/static/media/about.9793393ad061ee2afee7.jpg",
@@ -16,13 +16,14 @@
     "static/media/dev.png": "/Portfolio/static/media/dev.c3c26d5d44b693b58765.png",
     "static/media/Kyndryl.png": "/Portfolio/static/media/Kyndryl.6546ef492f92cc62e98f.png",
     "static/media/IBM.png": "/Portfolio/static/media/IBM.f494bad72f53e25aef6d.png",
+    "static/media/T-Mobile.png": "/Portfolio/static/media/T-Mobile.7021a2c65f507a12c336.png",
     "index.html": "/Portfolio/index.html",
     "main.fe4887cf.css.map": "/Portfolio/static/css/main.fe4887cf.css.map",
-    "main.26198f29.js.map": "/Portfolio/static/js/main.26198f29.js.map",
+    "main.1a0eb99f.js.map": "/Portfolio/static/js/main.1a0eb99f.js.map",
     "453.ed3810f9.chunk.js.map": "/Portfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe4887cf.css",
-    "static/js/main.26198f29.js"
+    "static/js/main.1a0eb99f.js"
   ]
 }
